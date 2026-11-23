@@ -102,7 +102,7 @@ getgenv().ExunysDeveloperAimbot = {
 		OffsetToMoveDirection = false,
 		OffsetIncrement = 15,
 
-		Sensitivity = 0.2, -- Đã chỉnh 0.125 cho legit
+		Sensitivity = 0.15, -- Đã chỉnh 0.125 cho legit
 		Sensitivity2 = 1, -- mousemoverel Sensitivity
 
 		LockMode = 1, -- 1 = CFrame; 2 = mousemoverel; 3 = mousemoveabs
