@@ -97,12 +97,12 @@ getgenv().ExunysDeveloperAimbot = {
 
 		TeamCheck = true, -- Đã bật TeamCheck
 		AliveCheck = true,
-		WallCheck = false,
+		WallCheck = true,
 
 		OffsetToMoveDirection = false,
 		OffsetIncrement = 15,
 
-		Sensitivity = 0.125, -- Đã chỉnh 0.125 cho legit
+		Sensitivity = 0.2, -- Đã chỉnh 0.125 cho legit
 		Sensitivity2 = 1, -- mousemoverel Sensitivity
 
 		LockMode = 1, -- 1 = CFrame; 2 = mousemoverel; 3 = mousemoveabs
@@ -137,7 +137,7 @@ getgenv().ExunysDeveloperAimbot = {
 		Enabled = true,
 		Visible = true,
 
-		Radius = 35, -- Đã chỉnh FOV xuống 35
+		Radius = 25, -- Đã chỉnh FOV xuống 35
 		NumSides = 60,
 
 		Thickness = 1,
